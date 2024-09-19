@@ -9,3 +9,8 @@ Answer: The medical field is one place data science could have a huge applicatio
 Q3: What is the difference between merging and rebasing?
 
 Answer: Rebasing creates an easier to read commit history since it doesn't keep the commit history separate like merging does.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve on my machine learning/AI skills because it seems to be a very important use case in the current ecosystem.
+
