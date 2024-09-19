@@ -1,0 +1,3 @@
+Q1: Why might be consder using git?
+
+Answer: because it's free and easy to share code with it
