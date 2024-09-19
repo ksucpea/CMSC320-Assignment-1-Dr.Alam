@@ -5,3 +5,7 @@ Answer: because it's free and easy to share code with it
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: The medical field is one place data science could have a huge application. It can help detect early warning signs for diseases for example.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Rebasing creates an easier to read commit history since it doesn't keep the commit history separate like merging does.
