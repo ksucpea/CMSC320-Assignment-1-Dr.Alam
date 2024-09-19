@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: The medical field is one place data science could have a huge application. It can help detect early warning signs for diseases for example.
